@@ -1,0 +1,26 @@
+{
+  "name": "Tom Wolfe",
+  "age": 18,
+  "address": {
+    "street": "Tuaf Boulevard",
+    "city": "Duftajo",
+    "state": "VT",
+    "zip": "77064"
+  },
+  "contact": {
+    "phone": "(486) 422-8545",
+    "servicePhone": "800792491"
+  },
+  "birthday": "1970-02-22T12:06:34.598Z",
+  "ip": "82.35.225.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Om poru wepvup bipfopen mo fawu kegati fek wuopaupu una rakpuwvut gi oba eg jufrit ven sowsofgi. Isa kohjiw mamoliva de cewufupu dawzapzeh mer kah tutpoj bu guwemo upozosji iraahu nicgap pefel obabo su hacmozaz. Forpek kectoem ha wego jidu somsihhuw balo zo japuv hek pi tinigi. Puhvov hegic sewrer ovuba fakfeh finukfug tokap sunnun jiumir beugnod jod sahjek azatecefi renjec niheizo logide ufomat rej. Cecobki ticragul vebice redu bodho hud zed firfamun devzilkac ge ebobej hugkucu vursiwu.",
+    "bio": "Tief lufnut dujuca gaz gug nol juvecu cednakec judfuij zu baruk fecoku woamza bowkelzi liz la. Jedbup legbos hiedhag vec updibnew fizav ahuvasuw gofir guosu zobom heg dacfenker ufaji oldi irku herev. Kufuwomer du huwvutud beabumu ejoamivi ugiko ru zul rera oz guztupga weopow huvu. Pokwujlit wuzlawnu utokikak holiw pulova idgamse gunila fose ez za hatawi vadag ofovha. Meji darboz juf faemki honeka finic vujisle fotlar dace ujaetke za ajoaji. Peneke ebvejbut zuvbirziz comohod morupdeg nova bovomvu likrikhe vuhlitudi wagednov utaicemic totcuvu igepoj mob ecza fevuco sordac. Ise wuef zado emdikbew gumra mif hagsihe ago irosuva uf sora ave."
+  },
+  "apiKey": "cb3349160e31f4c12ad5fce77153fda0c83f0fa2b83b79af5a5b08fdf82cd35b",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
