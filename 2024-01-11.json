@@ -1,0 +1,26 @@
+{
+  "name": "Helen Evans",
+  "age": 27,
+  "address": {
+    "street": "Utepap Heights",
+    "city": "Woifemi",
+    "state": "UT",
+    "zip": "85342"
+  },
+  "contact": {
+    "phone": "(525) 479-5156",
+    "servicePhone": "800571226"
+  },
+  "birthday": "1983-05-01T05:08:28.381Z",
+  "ip": "231.255.150.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Sikuv jauk uvkoz hakba zar ehful ol tuwpueta wir visod zujke eb ze ilsuwfiz muldefow vufis. Oru vifjopsuj ekrab ugoog etru pabiv livazu ane hoforjak inkeb kuwon ga jebuga iha cemeh sejipu ohut cehcanek. Daegu disurelem huceh reviligoj keumgu az gaz talog diuroid eja usufij do wu janego.",
+    "bio": "Vuke dizo elika ikwoimi icu biw emuni zujajuz fuvnap bo kuntav dashemor zevcaaz ez ohrennuz ufitivim reka biw. Wu fa ret huw opconcu ow pef lokjidos duuterag jamij bebzecep avakel sead tenoeki vir siic gihib. Umicojgiz izosapaf ase focoro duknas wew suprodeg revheit ju seubu awju tomu lus."
+  },
+  "apiKey": "c5ac0a261b9290f0c2a56eb221307c0a00a41f294b60b7e5e721cb2a11711842",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
