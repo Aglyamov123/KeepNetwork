@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Perez",
+  "age": 48,
+  "address": {
+    "street": "Nuen Street",
+    "city": "Hitgemi",
+    "state": "MI",
+    "zip": "36365"
+  },
+  "contact": {
+    "phone": "(676) 887-8565",
+    "servicePhone": "800839535"
+  },
+  "birthday": "1963-01-30T12:40:32.823Z",
+  "ip": "241.249.178.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Nifnan tepelvok ihaj mitaztaf ihjizmo bi ej case wilo tavocac ilsaah og joj puwre da ime cag. Abe ju giv zig noz ke uzte as gu la bizniz esbe sinas. Vemmaw bova ged ike zedkukrej lablodet tooweman suclas ime catukiac vojuc cajmos gawruaj fuizabov rik. Rebar ritru potja behab gidej be puvnijku colco pogrek uziovoluv renu gu efi liblac emehovku monil.",
+    "bio": "Natit ruok igfutbeh fukow je lowitire je mib esni baw kipuhfiv pimoco losih ave hu levitmi he rojrid. Dowleb uku ehgigi limrownif ekuno webazu roc nolhaom mof wobdobij mevnehum ki pun ow bi husukto. Um beb vimhi zec wusseftak cesjap piekpuc distotwin dogof oflaz lubsov muf lodavil. Ruc okujusmoj mizeup lokeswo dup utudi omhofned kaukouno pevso awa cehgal kapwotez diz netednip dozosudez lizo nub. Vud pono ronoza kelipu zew cuhpivu na tet fe vehus umcete kutmoho la getwe zapo afjo podauj."
+  },
+  "apiKey": "3d63db02b09a569644d6327445d764f91bb657ecef8ee47c3b6ba0d78f9137ab",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
