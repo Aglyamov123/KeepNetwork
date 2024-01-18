@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Burgess",
+  "age": 18,
+  "address": {
+    "street": "Ihulit Lane",
+    "city": "Filgino",
+    "state": "ME",
+    "zip": "40802"
+  },
+  "contact": {
+    "phone": "(409) 260-1933",
+    "servicePhone": "800679213"
+  },
+  "birthday": "2005-09-10T10:29:47.990Z",
+  "ip": "239.209.61.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Wi emcovi ep gufreljut lokato fi tujevvep wuctopti zur mig opbe zuflodez aduca ali cof hutozve ibuoz. Mam oz ma jiptus inijoec nitzaubo puju gozu kep di ucuke cikaale escitci buflabjeh ra. Awa zudhotbe inadif juc sopisa we roj borituajo ves wopgezwo du ni warepla mazpa wifi lomo je. Migmotjuw bodcecore tafuguaj mef caftufo rosdirov heuwinul vil kip edugibuf ko wo. Semihgan tumijbe sivjo rak dojmad su mew beovu cumhok cibe nadazaw uriiw weg ula surekha rewah nafa pe. Urazifre jic guhvov howor joepu go dafac hunjur guwlis ofi gahecu ijco hi cebocez ile ewiwel. Tiwe taunrul ne jolewfed rel jantewu letki kolvizca ug giled tajdelosi vedu iwzebic.",
+    "bio": "Wim tumapoza cotadi duftu sulzoc raispe koonron un ral dowjaoj ebeter ohnirhe muhin mowpinkob hif ve kovusomin. Nib vuno jewrar ta wi joev rure woolsa da ucvuc ohid talo. Iri ojivekij ge aguratfef houte kovonoud eli anhed jutuzi lihiuhe wugog cibu mazfozib kejuj vofsaliv femug ci bibca. Pedo wulez akehep ki eg zezoov zawetek lelu ka oja ze mavcev huh ofudebok. Wetnot zicuaw hucwakih pimifar pa abuuba liine avawofca fovo mid igugfel fijokupu. Hi ziva opofre hu taj afbezuta lujelum enopudif lam iz va karoij pipwe makvurin tim."
+  },
+  "apiKey": "9a73abc49ff745fcb672c35d4b0379ca94913fe8e99dab5c189c69feadb15fb9",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
