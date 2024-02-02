@@ -1,0 +1,26 @@
+{
+  "name": "Emily Adkins",
+  "age": 60,
+  "address": {
+    "street": "Tizu Pass",
+    "city": "Rasuwis",
+    "state": "SC",
+    "zip": "39632"
+  },
+  "contact": {
+    "phone": "(561) 858-1606",
+    "servicePhone": "800113532"
+  },
+  "birthday": "1996-08-16T06:30:09.541Z",
+  "ip": "184.184.102.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Ildein nilpih fompewro fiwtuk urtomaw dijgitfuc id rujriwal fojih zi va cuva zabur zini no talmobi. Sawniw lotori upebu wusvu fibdo ewocuvwo hin te pino ki lopfouve zi. Huewonun roluc fa nozeb bam hus raebudac jadijwe gobivu buma ece kueve suwetik nude fe. Ri cezwujugo iloeti tefuwabi uvucoka lobzemah susvuh teva jon saabihaw kutunji pum garuav owe. Ojak eke mem secocte jufriguvu nofu erecocel tipu wo iw mozcen kuulesu udfov arsaas. Gevi gazrov jogol sonpubev ivivos ru govik jek vu ko vev zejrigvir acuutfe topvi sepo ojiwam kumlom.",
+    "bio": "Igeora ive ligpefu eco ijaoliik habetve gazwo jahegfe soclonce ni zicu wogat wobtin okovo. Zemro jezacer didaemu naanu heosema padesu joala uh mijisga te uzlaoca fofih ted. Vujpi oviwe sounu lomegi ukeoke uw kutleebe su gozumcu uziha asazelzo guji ameoj sohsuam hosvidil."
+  },
+  "apiKey": "2f2aeece91177d52f4818fc7cda496d10be54f11968c5cdcf8ed14546a1e682d",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
