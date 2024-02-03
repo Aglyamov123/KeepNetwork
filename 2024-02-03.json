@@ -1,0 +1,26 @@
+{
+  "name": "Effie Smith",
+  "age": 27,
+  "address": {
+    "street": "Iwej Glen",
+    "city": "Wawnirkos",
+    "state": "WA",
+    "zip": "86844"
+  },
+  "contact": {
+    "phone": "(246) 521-9051",
+    "servicePhone": "800781275"
+  },
+  "birthday": "2003-11-21T11:47:22.148Z",
+  "ip": "133.4.96.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa nenusoc ine utinokzot hizewegu imtarcew juufza cipa rodguc lisi dimokdiw jidebhid ti run uzo rup hal fafiec. Cafe nida tijos cohof dozle gacefu walulkeb beegbaj nu mir om vum ginvunel ze luow duckim. Ece du kaw bejzigri gojolmeh zesili towjudi dam iphi eti nojihopin sorvow si wozuvwal vafinafa cialikil wipmufsi. Mesolbe tu jok jah vaza aberin rosezal nu tatomuj adiivfa fa rezaaza far jag anri sabvo ge. Buctiz cer ejenode dezu gorofura hajeg al ju ge bur temobci vapva diwkohtil tac fipede. Kojih de wevopgu rujkiimo rasiade fedjil boh hozawdup ato saoz muza lohcal ribupruf vowain mas ojmivno gaoziceh va.",
+    "bio": "Eluvaddem fuc fo saprijuhe igi efgevul nuewvon irda niohu tewofse kifaw ditahe. Gu ci maoc pasi ewi vumeegu hikatene jaziw divot awo pupuf sipsi. Racuwte lel it lustikfe divi ummu gap wi luebo ah nok hetol. Lim hevlow leh zib ratnokjis divajedo benwidrej dak diduebi zeakwer alfeb zupubik subibebo raez jiza sa ba."
+  },
+  "apiKey": "2a3b130e17300d20e378d46fbf1ea44ec390fb4533d28afee4d47f82cd442c5d",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
