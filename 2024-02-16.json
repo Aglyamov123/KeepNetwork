@@ -1,0 +1,26 @@
+{
+  "name": "Allen Chandler",
+  "age": 20,
+  "address": {
+    "street": "Jishir Pike",
+    "city": "Ihpetu",
+    "state": "TN",
+    "zip": "61447"
+  },
+  "contact": {
+    "phone": "(961) 607-6626",
+    "servicePhone": "800449332"
+  },
+  "birthday": "2000-08-06T09:28:55.807Z",
+  "ip": "139.16.34.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Gejophud rukim vel rumvirosi gepab vog lo daikulil gejte cov vajhob we nelpo osviic lohac geki. Pigwu bes pozopa zuvki webvokuz biola eka ohe enu tetvis damhak seb kor. Veslim dawseh et wop daowi ki log uh mevzetji cugja pegbehow duwo hovgiz upoap mohcujja adnu.",
+    "bio": "Rehduhza fifneg vok iw jocjafe fesobo hiweemo deguvo rahbo upo titifu tuweti lipatit. Cabub gu bekole bi bu zehpi nefurit zer gutedi kucrejuh kus foet tehhoj jodez nubit peshe opvomu ra. Vodko le ameuma ewu niw la gezisja enehi ebni mis ohadutjuf tugbapjul gifhegzi we pehajon copevazod om."
+  },
+  "apiKey": "7f7bfcc8faa65bc4beee19d12a6733905827e44d3a7da99c40792af186740e36",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
