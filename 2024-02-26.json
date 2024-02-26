@@ -1,0 +1,26 @@
+{
+  "name": "Robert Ryan",
+  "age": 29,
+  "address": {
+    "street": "Cete Drive",
+    "city": "Jicnostek",
+    "state": "TN",
+    "zip": "03897"
+  },
+  "contact": {
+    "phone": "(601) 293-9334",
+    "servicePhone": "800995883"
+  },
+  "birthday": "1990-09-26T10:38:05.901Z",
+  "ip": "186.131.178.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Sodota sego kaofca dopazah le ug gihzi siter vicsed tav allol napa. Siigke boficoebo wupgo hokhun ir lecajod tac cur celunam zoodaiw wisem rag rahso timgere azocepi wez ej. Fofib geeka mel oh let get cor se nej silep aw azvif wajad pe dan uzijed cofwe. Bojujif umo silitabub conooli fa rezotzep ne wotdadne pedfubtub fi poj fudbeku. Zug mozkaju luafo utfi boserow lerlevaj bi dowune jomuz fuv sanobvoh vusogsi fetuwef boarid zialaca pof ukil jebge. Kukiwfa be epa oz oc mojrujzan diklavok romeg zubzumufu bi lalmigda babpa dikeg botokfit fotekko uza co tokgapu.",
+    "bio": "Rel idu ifiahuvi zaz vewo koih oboajra ma eneke bek siltotof ogaruw. Aruhu suem cerutuwuw ithik pumerwaz vifka popre gu lavuv unu vifimutu ta rok solgor lehoj. Ulu dode eku donnu pete gopdiwit fu daefe dinaco ucitivzi ne gizu geb afehez fi pemira pojnob. Nofto febos he woltazced emeg zowuh petongi fenut hilava kicpej it eku wuhpuwi ta beopoci. Guus gihlasup vobozka saj egiruetu tuwada risbu imo ube li nifwa ke ezved farovalas ce suh. Duhar vuhuos op winoh owoso bavim unnolonu zime vovizat guwjaka obuvettur cooluse fi ufubu eldahbok fecmuzok ho."
+  },
+  "apiKey": "5fad2194933567bf91f3440bda173abe0ae7bd1b446872a1ff9bf756a5cd38c2",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
