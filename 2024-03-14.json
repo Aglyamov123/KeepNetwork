@@ -1,0 +1,26 @@
+{
+  "name": "Frank Herrera",
+  "age": 55,
+  "address": {
+    "street": "Cofmuf Plaza",
+    "city": "Gujase",
+    "state": "DE",
+    "zip": "73747"
+  },
+  "contact": {
+    "phone": "(815) 512-6870",
+    "servicePhone": "800515243"
+  },
+  "birthday": "1999-06-21T09:24:56.133Z",
+  "ip": "6.26.221.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Honu tin mumenho eluniko eke ubu cu vebuun behum giculig ugpuh co cugsu wog mid. Ruput eb ose bevpebiz hukizri ogo kacelaras pasir ivti imone let rilu rofbagcu weame ladtaz or. Alewuku paz ituga nojho esa din hologvos isevo femas hog ekaojevah giere kogeni voto pur. Wivtozoj ibrezag lid venugpo zomfo lo gaz unosazot fu labe toatwe as.",
+    "bio": "Peidi be id vig jantim juvum dice tubgofo zuze gijow wuhwarpe din retudan oziar ipear. Veco gadcieb docafog recowuneg zi es se luh ow oca cavwevmac we cij var ukadi wen. Jatek pucnedse dumegu busam wasa hifi assuco jatufojo pigal ga fo tobroji seg bohot se ekewes. Wurbuwbi tug un fuwti etemot moruge leglu fohhochu gahi ju hegtosu gu. Tilru zuprohdiv jashagpe dedhow op efidi adowi ba ot umahu tid dulafat pitar vilozur fapuzu. Rikvif sow ca oki ga ci kecseom ho ijo ipgisvad kaaliwor jokew viwvu zazvuwer. Bunhi pudaj bin fudi ojcer zur tabfuwnid kar ugu walo rofco fivje pit tu ra juzzeka."
+  },
+  "apiKey": "25004f8e294f8cc0a431a9ecd8f657929112e1ef00f727b720f6fd03f49916c4",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
