@@ -1,0 +1,26 @@
+{
+  "name": "Matilda Mullins",
+  "age": 50,
+  "address": {
+    "street": "Uragaz Pass",
+    "city": "Ekjuze",
+    "state": "ID",
+    "zip": "79643"
+  },
+  "contact": {
+    "phone": "(225) 238-1167",
+    "servicePhone": "800352222"
+  },
+  "birthday": "1971-12-15T04:25:36.036Z",
+  "ip": "177.192.63.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Madta ezi ju ezucet lu liw ob cudumov aveefa afgouno kifneh lawan jaw leh novgel. Mosi ima daafe ju enin vuj uzboku he sa te neh takenudu behgos ko ahopila hu zu satuj. Vuduci abojub og wo pilaunu nu mi job ma ganuvep hu wudvoh rodrovu teko na kiboma.",
+    "bio": "Apuhi me nuh igdo ontev ipho carke po ce mowme zuri noibdam ma doskedru potliwca luj. Maplov jemigez mutohef vocucmas ju cu naimos we apmecvu vazaoru cucaru hadebafu. Kinag vag tuvdo gunoldo jo bi nedap kolca zuwotos dow ned vebhokraz ini guk."
+  },
+  "apiKey": "265fd60d56f871158067d7ae86114422b2af60f3576ec8f793ef6355cc13434f",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
