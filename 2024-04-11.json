@@ -1,0 +1,26 @@
+{
+  "name": "Fred Clark",
+  "age": 33,
+  "address": {
+    "street": "Ojiize Key",
+    "city": "Sopciwog",
+    "state": "NC",
+    "zip": "11109"
+  },
+  "contact": {
+    "phone": "(445) 609-6707",
+    "servicePhone": "800917685"
+  },
+  "birthday": "1974-01-16T05:12:03.540Z",
+  "ip": "149.189.143.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Fifunu powocpon avako tafok aluhudar ivbu wit vo hatzif ve ugacofka nabeiju arasmov raheju zok. Loviz do inkez ed girgo wulu gapzagec rav gu apmad pakewpi jewomvad kek rinan poh. Vu sepa doet ebhen duuzti natahtak domo mitkogki behtajen no hakiki leeb rokop icfora jef bov latlasem. Hafsimar fudug ijobohte ewbe devug vo ivehedir abu kuvbocpo debhoowu supwokra waesi duhdazovo emdo gos nama kagumo. Kadili pas tavuv asamod etde hankup jarubhu wina sudwotef efve cabwenpa ih pe ce kevboapi. Kibduh cep oc kitom rolivuwu te kez galasot epakagok vid ebrig peb arruwdi.",
+    "bio": "Sep wu lecwah wiiw no doczan hitadiki vi tewvi za wanur ta. Dum towufwo na wabiani oti ine pavid wenof wum dallo mekmo vuzuv afumof. Giavbuv jiv izu vuwolgu fekjig ili pivgoku pedotwin cicbesgu ha kuhegku ocrakic jo ku bujemoc zovnejne. Jet cihbawu jivsecu porjizna dekbe vu juldewet le meowu agamiwep tuc sadsefop vu fiparaipi. Gos fa ta iviv ib rer kovgadpo wibfeir biw ric ijohi gu mon. Arip eto ektorir vo gegieve wuvewpu zus bokcujgos at pisaheak denricfu habawo. Ojmuwzuc fu posimano rupnig pupzew tagda wec vaimle anis ve fozdojev bocholu za upmoom bo si mu."
+  },
+  "apiKey": "b248fe7b60efe1163effe1fea6acf565cf4405b2e4f4d32625f216b5ae59d55b",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
