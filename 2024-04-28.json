@@ -1,0 +1,26 @@
+{
+  "name": "Joe Saunders",
+  "age": 31,
+  "address": {
+    "street": "Jicep Junction",
+    "city": "Hudeawi",
+    "state": "DE",
+    "zip": "05379"
+  },
+  "contact": {
+    "phone": "(216) 646-1432",
+    "servicePhone": "800625942"
+  },
+  "birthday": "1964-11-27T06:34:37.208Z",
+  "ip": "93.192.21.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Defik ragamah gijotama oludonru uma vihutca nah famiuji coglisud kebuofe mut po oziteh guh acoj. Kaafi fuc lour janinmeb anjodda caiza owel re hos bodhugke apo zigdoje ot cerap ib veim do. Pojiti wuw mebobmo hoaze pa ok pijpof uluwip anzim zaecizi fusuwo den hafvun cuporpa kazekasak hiwerud ejoti coiwki.",
+    "bio": "Jibuv zotcaldur givegad tebavasas ko ejehel je mepuola hit lu anbo asa zitli. Dek hovbasi ivuked apkahni nokguh zovuhek bapul bajpitar ilacaszup tebkij nekluw uki vedpo ozaazo apuse. Vunmemuw owti vum aho gu jos poej falicipat icowat zuzvoba cowne izatikwuj enno kemesuv. Cijon arfad fu kamewod urle wuciv zefug olegol wago ge zopigre ehewip. Lij liwur sarcigo zab jipegji tojfuaki wezuwo rogezoh toowuef vudgojcu hofzeugi nijubge ilaap."
+  },
+  "apiKey": "eeda539e08d6c7c9b1884e93bc3b2e52ea4fa6f1d1256c17169e0942888d3eb8",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
