@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Martinez",
+  "age": 65,
+  "address": {
+    "street": "Lawi Center",
+    "city": "Zetwufeh",
+    "state": "WI",
+    "zip": "05663"
+  },
+  "contact": {
+    "phone": "(370) 263-8358",
+    "servicePhone": "800248334"
+  },
+  "birthday": "1997-11-13T05:30:54.593Z",
+  "ip": "231.241.208.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuhigu madawis jo eka dirud hopa ze perovibil sojzurbov saf tovmak ipwocaz ce leufovu. Tilumluh fofi azecafcev du ra vinifam ne ca ruaw cuvger ra cug oloda lubuw powticom. Caplacdi ab lungihug ehavo gekzug toh ahiucavuf bo bij ze edidabu polid popenis nuf.",
+    "bio": "Ezeepwal ijacugew atfo sog belus view epo jej tehup tefvez ivzudi widijan dera wemikaaw kef pot. Asevid risjow kohhaspu jetwevob konsanlut heimuohe ze me ferezu agrusi ruthuke hohiv mihweat. Nagmuwu lasef nijtuehe sir comugan wafi ul ru ge wamo suetmuz lojojav wosikiv puvrasju siheijo tocaw jinu."
+  },
+  "apiKey": "7a1d8e108730b28fd8c32d45e94651570a68020f257e15870052ed0204aea4f3",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
