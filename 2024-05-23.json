@@ -1,0 +1,26 @@
+{
+  "name": "Ida McGee",
+  "age": 32,
+  "address": {
+    "street": "Tedec Pike",
+    "city": "Todihabe",
+    "state": "MD",
+    "zip": "04049"
+  },
+  "contact": {
+    "phone": "(755) 833-4360",
+    "servicePhone": "800284996"
+  },
+  "birthday": "1986-10-08T12:05:22.793Z",
+  "ip": "175.80.17.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Uwa takar va il laj ilo voraj ne nonja bes opdugom mu hanleg zaseba sivtav. Lag mak ezehije muso zabi us nigpa dujko sad vohisig atwu tuf to jicifuk tunapzez asikadba jiku. Zivumo ifiwoor vilzevur nisiv anka no ul et domma lu kimo kiogo. Buluaso wece ukokicu fuitotuf ije po gugu ewiwi sibov mifujtem daize wes guhep. Kosecsu bu cirpusa efo bo tab rez pazepi laktugah et otmiuw dolnumrob nod. Suwugok nanu tag azeza nu bajol nuhabdop rum tippedce gaoja cu atugenaha vasreno uperoc. Liwakfi nowacetet wujkano uke ofios bir vuclem mep ketjiup de gazwoar ahi.",
+    "bio": "Ub ase ku ov fad erbuhrom lupof tilim downis salfog ahohuzen gojusju zuwupzo ejirofa uj. Uvu rekaubi punamfa tij canogvos eliri wesih biuh uf dofketkaw bebrulzu kuzfe tiful. Jechiwlu wewo awhog dut pegcu enlok kadugjo mieteja tekdook uj izeur didani gosajov uhuna tevca tif gen."
+  },
+  "apiKey": "f3cf9c997033748d590c3c842708b26dca58dc589de21da0b04762ed159cdd54",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
