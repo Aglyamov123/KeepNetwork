@@ -1,0 +1,26 @@
+{
+  "name": "Annie Brock",
+  "age": 22,
+  "address": {
+    "street": "Dova Glen",
+    "city": "Anrabo",
+    "state": "AK",
+    "zip": "19092"
+  },
+  "contact": {
+    "phone": "(257) 899-9193",
+    "servicePhone": "800873236"
+  },
+  "birthday": "2001-05-05T03:20:07.553Z",
+  "ip": "48.166.49.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Zohaca jijrof di jofjosoju bus wavma oda gi pud bisfo va wen zejeh hoja fo huvcehi wufa ureipius. Fi umedud binhave alubato rosgeh tok renazi bag mitorha te ihce ponvupav. Rimep eca tuov zon tibweruh pu az sasgulrem lijaz fenito guc uvuobu vefcuvaw sano pes izpa su.",
+    "bio": "Ji ilewuri uzgotpa zi alimofu opdin jectu so hituvfuh ju kijoc tug benno nol riopo padvav. Co ec podlu fuwfahen emwipemu cewjog wukatad ijubunjeb vupmilsuz neluzuuwe ungu etovirwa lu honwudi onetukje perze. Lilpo tif jackanru kuga ta ku deg nezluc dujajgat po gokuv leeftus ancuv."
+  },
+  "apiKey": "35ec7a7291acd96fa740438050aa3a7f0fcd9af20650d989f487b927a34e444f",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
