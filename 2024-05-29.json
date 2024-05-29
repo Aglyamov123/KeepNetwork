@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Valdez",
+  "age": 51,
+  "address": {
+    "street": "Rudes Plaza",
+    "city": "Tomleco",
+    "state": "WV",
+    "zip": "78039"
+  },
+  "contact": {
+    "phone": "(525) 587-9814",
+    "servicePhone": "800254921"
+  },
+  "birthday": "1965-06-19T03:31:04.345Z",
+  "ip": "16.149.105.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Gisdic wauc kooruepi ru sojukaja goc injarti wanirosi cibegtos bi zehcoh ana min siog ri gijwag veg gesuce. Lelri ofmublat vukigiw dar isle te alawogbuv selsije ujisenela nak are vetsi. Papesege tohbup rit feruf ab ihuilebe pidafge du zipow iwa wikraogo mi avo lako uzji pe vobo pug. Aknevig zuravu heca tewapin ohodi su denas gevuszaz pah ul saheguzu pefelen rosmer doz cumib.",
+    "bio": "Wa tap rizoko puclo vucfunjil letefjal hertu vuwarte tahov wi ta sapne. Bahaz da ulo maotu vowwew ri ten fec uh puc kohmurim mat cikmum veci amibo cam. Kir mabi fe kanjucat cek bebvaeje mehzelpaf vagjowkon uwvag vuhipjej kul ferupgoc me."
+  },
+  "apiKey": "59d3ad204ae7e53738ad05c0e9f24d6b317eebdf340219d56fd86ab7217e95fc",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
