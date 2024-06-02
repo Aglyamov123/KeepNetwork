@@ -1,0 +1,26 @@
+{
+  "name": "Jack Little",
+  "age": 20,
+  "address": {
+    "street": "Etdag View",
+    "city": "Dalnuwju",
+    "state": "DE",
+    "zip": "26183"
+  },
+  "contact": {
+    "phone": "(368) 459-4922",
+    "servicePhone": "800142536"
+  },
+  "birthday": "1995-11-24T04:56:02.007Z",
+  "ip": "203.23.139.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Mijibi med mokwep uvoha fajsatkes tavu lejimbo luw ic etamu vebez ziwcafit pizpeteg. Mawse cehkaczu kowi waza turbizmo itju havuhbe vojiwta cugis jupef rafozamok ju ba rurifuca sanhazega rapmel. Ri zani suz judad ehiotjej civbodic cilugga pakomoore kogvupir noigti to kaj hu uwerewu vujaebe gu.",
+    "bio": "Iko saokotaz cowiknaf dosojso bo fuggiw apibka samcikke apwaci heep becupa fi. Ro jucgo cab vi jan ru notco ogtaju ceciw matambeb apesati wow vofogcot as urmepdan puket eburira. Gocki zo ohlaz jitzip mihzev akuij eg da zifa nudewwoh puwocac du ozunowben hitusgij ko jub nesvu wapvo. Telaji subahud lane inape mojini riv wogheh ado hizo neta jibom jas bigium jop ivte ub. Gi kip foozasaj imfa af ru moefuruh turosdal liabezi fil lejpetuge rawinafo mekvew so ufefeko lakoco faja divakez. Jo zosmahfat fikhasa lurse silvizig ge haj fuc petimutu ca dodnebbe kagtef buz ed. Gu bit ab je sicahhul tacu feb uwa imbor lazi ehara efe ceejher mirfejad isja vusolu cadwona fuonuze."
+  },
+  "apiKey": "7f79f38cb3bc48b0c5a280dbe58be295ea913137dfb53fadc233c7561aa7c2a3",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
