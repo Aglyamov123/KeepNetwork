@@ -1,0 +1,26 @@
+{
+  "name": "Barry Chapman",
+  "age": 23,
+  "address": {
+    "street": "Zaru Avenue",
+    "city": "Beleof",
+    "state": "NE",
+    "zip": "17187"
+  },
+  "contact": {
+    "phone": "(656) 286-8251",
+    "servicePhone": "800956848"
+  },
+  "birthday": "1986-06-13T08:37:21.770Z",
+  "ip": "157.69.192.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Bar diicejoj owe jic ceupe jemwug el casekcop mo gem agvasgob lije goekaju. Fewro roer cu edrehil fe jejpuvkar putacre ujticrar ih jed ib ibzot hefvojul baar. Ido kavetsuh safakwo zorzi on macagirad ravbeoz oh ge gur am ujebi tadcoero ijuled zen. Alo dikzibe komih labdic vus afo ovnunta felidbo pa vibiisi miv jud fil. Jad it hirovu zezbu na miegbi hun anujuvu buwe fu ag usme vak apudmev aro wa jadgav. Uri mew burdiw nasihlin izejunab fimle nav ci kow gug zojow ik ga puslap virikam cijagdek gulkege wuabtu.",
+    "bio": "Kos voznoz vuvnimpa pegicesok unube sew lotbig cop fa pis zoctaac cu la leko zotuz. Icoul van luez patgugot fe wen susiru nunsajvor pifzacpuh lob urne ufi dukcev anvuw sunvewvip az dagi mavon. Necosuh razitbes uraalhij ivu akselro capaca tavfaw guzupog siegta zecig tegajli fupait hu cukkejaf ozehe. Cippabij navpej fi nibele ki no vevfide oh haprulam od lico mer geknomu coz ubikoscu leasuubi."
+  },
+  "apiKey": "191a9e758359fe38ab30c4dc03d43e7321db6c05b4fa336ae78b455ffcd3561e",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
