@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Wright",
+  "age": 22,
+  "address": {
+    "street": "Henwud Terrace",
+    "city": "Fowawlup",
+    "state": "FL",
+    "zip": "15942"
+  },
+  "contact": {
+    "phone": "(633) 787-9992",
+    "servicePhone": "800829775"
+  },
+  "birthday": "2004-07-15T09:16:38.685Z",
+  "ip": "101.16.4.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo gu pijewsi laf tu dahcimdo omuhizuj ive jufuf wikvipog gi uwe ewdaeh go cutwow wosipud. Iseugaipa homikac vofucbuk nasmodore paufu hoahog ehu tabifuj wobedba wo iza zocivze artoftac. Uto nuzufsu dozor mocum rehumre osket oswube purgi lajvutzal ce jovrinno hez jitnuh cizoldop.",
+    "bio": "Ipinaid fuas jufi ofu noec nadjak jarag mum jij pe ugtu sofa ik pav mat larekrak san. Igamijbuv go mul ute modhermad sablub huk ho cartu docec dikemhe oj potzasi wobe zoivinob hih. Zo napooke rovrimuho duvavu rosak cewipo ko niifihaw ane wenli hek akoru adofo ujfizif oheve jub depodlur tupa. Cukwefa opjub jul zutbasa tino topaija tiho ka ujegec reep odaseja ukevi ulugi. Anmosov okijkaj cem lofogen bokah pigiv megdegfas dajima zoppo uvtahab katu ta puptuceg. Bibtumbi motcan paice lek us bourvin uzohtuw tiwabe wivhafok avit modpo gevjo hazu hutina goz."
+  },
+  "apiKey": "34c8d17f3e269c365162b97e1607caca943104fae73ec16544832951915ff563",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
