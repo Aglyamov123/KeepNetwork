@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Frank",
+  "age": 32,
+  "address": {
+    "street": "Tomra Grove",
+    "city": "Abapatho",
+    "state": "MO",
+    "zip": "45306"
+  },
+  "contact": {
+    "phone": "(221) 532-7583",
+    "servicePhone": "800656438"
+  },
+  "birthday": "1969-08-24T04:08:39.249Z",
+  "ip": "130.22.247.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Lippiw leoduf si pefe luhruffep damiwet hukuve tug mim jojoju zos girlo egihipzom kahozwi fiafuij. Je siz zusna kewuhe paagu cem wigzag cisi ruhlakoj lorcujfel difanog rervizug du hoj. Wuf nada cernawde vap pow fanu harmisdo zuk opki hu oko sohog ecezosel docotdi val bot saefo. Ozaruna agu zaf jendomku vimub bo cu nervacog apajaof ed gauwuceb pehceiw. Ijo duufzi tumbalos olu gowro cipwu lujkukgan deksi pa uzedusok roso tezvuzji irenaf bakupi. Laeha zawreg dasi ucumoh ka wuzliris jog hed vuzijkig demitti kunite rec benoud goztaco sedajjin demliroh mujaw. Linmuma wubbi pocaj eparofmeh cafpu usewiwol dusevufa he huerne ukimozhi ojrameg vakapuf.",
+    "bio": "Ce venjoniv fidcicip de ibici ikirowzan cuti ro ujujurpuk piroguezo ipazab weure vat ri pusuw ro nut. Adocum rov jota dak kuduj faiwo tihitada ekeru vepudlam corgop biimpe uvutuv ile poenzo hampuc kehsifubo hurav waonujep. Iz itafiuc la poghih ze jevwebe vofpu da hipos logdi oseho sa babecli opta larvosuc li zutlozfi. Aco kiis epe et uva tid ukucenoj um wazajavi mo wupsook fo ka timuvno. Satfafic pub cuselir al ekhacif suevpor sedi judurib vekbudawa petnih boev ke vihva. Zon hog jagwawfag ku ma egdip mavemda jiw se tapucbob riigaife rapewipo."
+  },
+  "apiKey": "99f3a6246c77ed17a5e4d92646d82c5f60ec5700f442b0c8b8e27710a1a5ea6d",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
