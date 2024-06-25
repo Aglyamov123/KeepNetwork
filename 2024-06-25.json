@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Hicks",
+  "age": 25,
+  "address": {
+    "street": "Cetek Street",
+    "city": "Obezotid",
+    "state": "AL",
+    "zip": "40631"
+  },
+  "contact": {
+    "phone": "(541) 648-2636",
+    "servicePhone": "800883757"
+  },
+  "birthday": "1990-02-11T07:16:58.185Z",
+  "ip": "233.230.160.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Voliwi goidohu jef jeguhom nic pug ir hep urikuru sim fovmof cinoke ruhewkah sanakadi po. Cosjoj wuhmid vemtaafe do jo ma bu oh cimiw vac lu li imi lasleve me sa udo. Boemi ziiz losodwov ilak rav ogeozo vazuno kemo ho mak ruhpawfom nu pepubemib enaca otwoj. Umeale siitlar usire uvjajo cocoje gasorto gabsa rapvib ez dotvud foziifo uvlasfu zebla suvuttok kub niw dupragel weskoafe. Bevvidod bazbep memho ope bawiv owponji holpo konikij arbijjuj nuguj pukag vaejezab ma pejjo vigev rokuzaf sijim zopik. Vof hoigu loemfin eji jafdognez urre zozbusmec oh obgug cuscicit gas oco ale.",
+    "bio": "Zasopgor mehomse ceij ga lizmocer pum cok noborugij mid viwisiv uvo kizheozi. Rangej bad simazarod rake belgo uno edzuppo cun jiv bafra ginenvu naf evkiuke fetodpi faut. Sepis hojaupi niw un zacet dakab asacauhe din te pumfob niab vanmelu neodli. Ti deva noctusep omnotfu vijgu cuktalaj lo kusozo apo migew po aca uke vevejna cuhu pe uloskav."
+  },
+  "apiKey": "d2b4a592778f602062a55ab692b31c1949b9171d1412ba38b03994861a0f266b",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
