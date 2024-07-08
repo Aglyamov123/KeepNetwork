@@ -1,0 +1,26 @@
+{
+  "name": "Shane Castillo",
+  "age": 37,
+  "address": {
+    "street": "Sico Ridge",
+    "city": "Engikar",
+    "state": "AK",
+    "zip": "99522"
+  },
+  "contact": {
+    "phone": "(687) 385-6589",
+    "servicePhone": "800244395"
+  },
+  "birthday": "1963-05-28T09:10:16.521Z",
+  "ip": "141.32.52.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Rihnaoro mogirpig rovav viko tuz ewuahotup laru pila vezdilkab evse ebi vuga ekupa vokilefi dejmus nuluw. Ovruwut pecahwu ic ze wihen omdif dowev pasco ciho caviwem tifte wewejes edesok favbakulu vur coripje kirumnis cuca. Hefmefop uce sit na piwti secsantes muvbijla isusab zalewuon uwire mak oj loomilo.",
+    "bio": "Sicepzil wo cihga cosuib sametvi dow suuve fijakdo molfikguc ti faresojuk fajodu hil pu koz. Dup tac bocitil azuka pitop okza ra poinasa avuib cekizu di nufjuzgo dewtobzoj caoni so odoroze. Ze vocor abu tuckizcof mut fefuctif er jaawasi ab fov bobo pu gesiklod."
+  },
+  "apiKey": "93cc1d8e524e661ebad0038a10f6d0a230b91ed6ff5a8d0c824dcbcd5a94252f",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
