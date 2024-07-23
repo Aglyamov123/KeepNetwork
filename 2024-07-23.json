@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Thomas",
+  "age": 33,
+  "address": {
+    "street": "Foda Grove",
+    "city": "Dizahsu",
+    "state": "NV",
+    "zip": "16400"
+  },
+  "contact": {
+    "phone": "(222) 209-5884",
+    "servicePhone": "800227537"
+  },
+  "birthday": "2004-06-29T08:45:40.568Z",
+  "ip": "40.138.239.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti codagho tigja efelu gi puhekod ger et ubumuj lu we gekin om padpa tu. Sunzuzsoh tituhvu jofi nifcibi co at ibi punhebuc rivja pawiif of kujcef tu. Ratva uwian sagoac ilealtap evu dotfud lu dozaako jogenho ebu ow amicikfaj itaja. Bapocu akofu hupop kotmusgar osukefba azibacwi zabukuc da ruh huucu gi lodnahfe momcozlak. Veor li go timafup nahcejfaj tecvu we ela zuizufuc meab sol litug igjizpec gi zab tiod. Fijsal ubohi zi jed kulo lekid zifekag ethe bugod kazwe jo movrabol zok un uvrarmi doupgo vumes tahaturu.",
+    "bio": "Haslo atpiadu gean azo atibi ehoju nainipug mo dumfupve ziolme udetumiva tartuni zovjo rudnez civadpa fi re va. Meaj ebehi cizaf ubade fohujot hep fuhiz jizovu re re nun kawojo. Ale zi dufluv tafguuvu noh baazi gopuki bisu hidaj tezfif nizah fec ki hamso teze vefoc. Zetic vuk wis va musne eb hiwecu ga hi kewfumlo li ho noffen. Hiffebti evhat padro fekom hujawnu cu far ke danjatin jefdow ogolos amomvi tu ciwa herki. Wotum ahaokisoc ozogo ewigel foka ti mahuhu cali badakga nuwrepwav vidfi do zag."
+  },
+  "apiKey": "8b537299d6c69bd6b64351883429be76bf4654a352e292b5071bc1bbb7dc8f1d",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
