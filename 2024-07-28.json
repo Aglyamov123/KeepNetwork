@@ -1,0 +1,26 @@
+{
+  "name": "Dylan Bowen",
+  "age": 38,
+  "address": {
+    "street": "Hajol Park",
+    "city": "Ussogez",
+    "state": "UT",
+    "zip": "36132"
+  },
+  "contact": {
+    "phone": "(360) 603-1067",
+    "servicePhone": "800194836"
+  },
+  "birthday": "1966-10-09T02:33:39.622Z",
+  "ip": "174.21.65.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Momebhez oco ewa asmetkaf wiflic kerupar zu jounna huwejke buzlaboj akaheb wuuhusuh hokgabeg. Paspeg li dafes libnikuhi wu rukamo gik ej co tokejab adsib ehamek. Zah ma kicpibi ok deer hi eku defna rohfot havve hozo suvujeul.",
+    "bio": "Mugedu ce wiga pubij loduos jij moriga cacuori ubzek debeh efgu jidrodpus ne zuoh beha alepivza sefino. Gilirawi osasuva obaco guzjez jedgivga hacizupe renob fol asisi lusug izaije ifcokaj gebpoaz imo. Pakso izowuhap kat mugikni run umode su immebufu nug opuhof otu igi co wuos woagi."
+  },
+  "apiKey": "e60fbaf8acddf0608fc32c3c73c14ea4bea8f5e4889f145434fa8b567cf8a4e3",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
