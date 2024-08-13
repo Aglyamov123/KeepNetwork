@@ -1,0 +1,26 @@
+{
+  "name": "Christina Barton",
+  "age": 34,
+  "address": {
+    "street": "Raaz Pike",
+    "city": "Tamtigzo",
+    "state": "NJ",
+    "zip": "82382"
+  },
+  "contact": {
+    "phone": "(936) 229-9518",
+    "servicePhone": "800887447"
+  },
+  "birthday": "1992-04-24T04:48:29.346Z",
+  "ip": "138.1.239.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Mesir ecogem ugile julfen sed dedam rug pel hitovbo vuvku cawwiksos obeibajom giranza desupa utegot hofum sofhan. Jougdek regi mus naluezo jizcaed no sidzodone lupela bebnaot ti pa weducu af. Vot opdok ar wezpeje ug usihoz omake ga vij emanefud eg tijehpo.",
+    "bio": "Va lovba tim zup kakganeh cannevud ajawaf obi luf rumazmar fusigi fucco difum tiwifaw ojmohtub rif afvuk. Aku hec jof wuweloedi upi uvowem toogu hefudrup cawses izuse uditamit gubaki. Sihir zises vual abbup ma leb bewiphot igaf fo lavsoz toz ocesojid wef af. Tupjuk felwar vol zulilu bu ugjogaf fit bohtul karlub bekdu dacgol ji woc wojne zeidaiti gi tev."
+  },
+  "apiKey": "1a5022f768e816ee248785cb3b0cedece007d34acb6ab13a21765a829d47b1d1",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
