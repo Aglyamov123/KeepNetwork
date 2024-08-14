@@ -1,0 +1,26 @@
+{
+  "name": "Steve Norris",
+  "age": 30,
+  "address": {
+    "street": "Cacin Street",
+    "city": "Esnujdov",
+    "state": "MS",
+    "zip": "15142"
+  },
+  "contact": {
+    "phone": "(231) 583-1121",
+    "servicePhone": "800665275"
+  },
+  "birthday": "1964-12-16T10:10:26.107Z",
+  "ip": "69.1.167.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Pom op rucber wo ib de co kib kotow puwiw ezipo hamvofap odfo rapinipo fa ted. Geekire naadce odju jel garadu behewopi etuhoni japwesgu niholuila hepgizte mauda vu cuvozud ziki ute ozi vilipi. Su let naewe geteh accuv opdicve mamrafjo ij uvut wirat pohnif rem en ujufaw. Duwnut gesrorwo gijeivu ham owu agbuvcek owwe cutcuv davon dagtabun pabhoren junrojmag aju gacgelgen gi hugo az. Wozwo zavtakev enloggop wubiv veg recabiva jag hurevkiv fogzoj bitezi onzot hebpuw wocin. Hika luwboaci we pa kaj jo fav kekos ob bojapehu ho uru bucsambef roevatok sugiuc gijezguj naw jo.",
+    "bio": "Jiupojo sateci zew fivi hobebakuz jetcuaja watec lukfacbow zupogare cislabrij numwa soh goop fe behja giw. Nekacowen ca loc saomuse kuhaw uppu zabgu ukbag sovvir nafus odu oc amajati milgowun. Menuda ojjanac ugupuk vonpen wazzu lubow oficuj dim dokjef lon be dorkiha ja uz si. Kikmo bisli fi bon tisifi jiduro fofuconi tuace awe obto fakbaroji datev eteparah omic vewe kugazu. Linu bara nerifif bucaari cuicoho mubco duipa bupol wevucu ruzuma mi gupzave maznijzaf piadato medat hognomwo malup. Ititaozu pu tizalapo lubpaj ju zechij wicofa fa tudihej sorduphav vij faf iriki la mihuze wizi."
+  },
+  "apiKey": "896a09b6015500f78340a929465b3aa5a71f065b26583a83265226bd261edd89",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
