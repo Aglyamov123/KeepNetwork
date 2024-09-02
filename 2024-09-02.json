@@ -1,0 +1,26 @@
+{
+  "name": "Frank McKinney",
+  "age": 60,
+  "address": {
+    "street": "Zowa Path",
+    "city": "Zerejci",
+    "state": "GA",
+    "zip": "16827"
+  },
+  "contact": {
+    "phone": "(620) 893-1285",
+    "servicePhone": "800653827"
+  },
+  "birthday": "1967-05-24T03:07:30.087Z",
+  "ip": "218.123.228.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Dote ilra jaki weev melsituf vinu kohuzkip nu japzob rujef uceruze go vaur bomusgah zakvir ho tutu. Dijpahij nezobe la boh sajok huksajo tob be sewo ewoeni fisipuj kuci je. Ve aj ge sefingim diperdoj tilmajje jaosukoc cibet erwe nujuheibo le pa rakoremif ob kuvalabo ca bufbo hupi.",
+    "bio": "Bujafa eguka itga feluf ene ugitu luc olvedol hu suhehvom ut zojgom nedno. Dajcuztac lifefo lav ohoomienu kut un infel vikwej bomhu lop etfov va vo om ohgujgi. War rucje hisavov soruj uniwiw refilos jaddesik zu zi zevu segiv aku. Esbo ed iwenu ecur zos lacazuv zemsut liulaha vippi demoopa vut juh ho epu gomvolmu luku huvve uda. Petnures sohosuh zausumik uhoreh lisud goc udiid elullo levo guskip wuf kud an og. Cihruhho muerafuv uhivi da zuk rigev facij cow dar mu az sitizkew kevcavkur. Juw hu dijte vecu ek imipeca misegzo rauw bi hu idas efa rugordim fodra wacluret."
+  },
+  "apiKey": "052d1d390bb1f7e338c3a2e210449e1db059a349cf1c4ffe023811ca342f6dd1",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
