@@ -1,0 +1,26 @@
+{
+  "name": "Chris Nelson",
+  "age": 31,
+  "address": {
+    "street": "Mivaw Pass",
+    "city": "Olifodo",
+    "state": "VT",
+    "zip": "79135"
+  },
+  "contact": {
+    "phone": "(784) 681-1142",
+    "servicePhone": "800117649"
+  },
+  "birthday": "1992-03-03T12:00:12.983Z",
+  "ip": "1.132.185.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Humapir miztetuf luz ed ic copaen behhak biajvo uvedeog ni dove gojaga. Ravfirtu golji hu pemegug hiphik gehsi ekira zabjo gomi ukse ekuofpug ho dineluw. Zinonru udourajo uwvez wolvu enopoh ri saldenat ocito emcoz mime egtu zugesewu firu. Sot wibga tafkuja mevelbog riebve vevik ujedus kartazde caripocu no zaba buccujdo talitami gi godniaco acuvu bez icdurar. Hef ijudiki iz kikad gukraf ifbek bejovwi mehe wufogu mofliwu meruterim nocbo jevhala lu dokzafo pitjopbo ujuku miv. Hu asbe vi ko mefibok dejlafi ingif lupag areweb kuloj olowu ehih musicbah.",
+    "bio": "Zupivma evjinnis viow tetget joksi kibsim sav esvahar rekluwzak zikhafho jahe don. Do pijbokile ibosas pogtuw fapilo ravo anohi dielehe haw catpowo vagage barison tedli tezra rapjolu okazu line haori. Uglarle ennan usomin fov mu uhoajumez kuj bimain uksidwas ruvecjun vuha cuwmal konagila dedi."
+  },
+  "apiKey": "78e8f1b572a85291ca891af1df2ea5359dbf3ad88ad16542e802ea24c8e86e3c",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
