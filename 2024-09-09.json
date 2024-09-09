@@ -1,0 +1,26 @@
+{
+  "name": "Larry Flores",
+  "age": 60,
+  "address": {
+    "street": "Giju Grove",
+    "city": "Keerak",
+    "state": "ID",
+    "zip": "80793"
+  },
+  "contact": {
+    "phone": "(541) 544-3971",
+    "servicePhone": "800318636"
+  },
+  "birthday": "2005-03-07T04:06:36.301Z",
+  "ip": "75.197.196.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Nizere odiwenlov wepno jekuhi vewad aketu ipfa jicsivviw rolo rozjuwov aliatu cefpod awsan va se. Uwcec iztabel po cojoice elbe jiut vuphubwij guzwuidi vikduc zeljedas hicoj amozorif hecine olomu bahkuhvi. Be bowcodlel dahsoltu unicov vehe ekserraf kog apopivuf pactigne zodi cuvmu ipwefwe zebic voku se.",
+    "bio": "Sussilgus sa avalubliz jaujsa gog orus worhafwov ruple uc rebic joj loboav tadohde bud hoviur vi. Jispohja sasoloz jof al meihruj wal kitjubih jilam nine pu va fafi kiludac vaverdif farada zimag lilet. Se zaw jigesiru ewa kewo nod ovaumi han ariram ofkom ka def heve."
+  },
+  "apiKey": "5a422b721210856c60a6dbebd696ba03f0d8a1f5f45f4e710296aa9f66a8a2cd",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
