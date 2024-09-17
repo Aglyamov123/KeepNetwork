@@ -1,0 +1,26 @@
+{
+  "name": "Henry Moore",
+  "age": 45,
+  "address": {
+    "street": "Jali Pike",
+    "city": "Docoker",
+    "state": "SC",
+    "zip": "03918"
+  },
+  "contact": {
+    "phone": "(675) 216-5536",
+    "servicePhone": "800875535"
+  },
+  "birthday": "1977-01-19T05:25:23.571Z",
+  "ip": "129.252.73.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuku todim ubopasu co amuvid disihok badruv ija op bado mi wisimjo hip ukoloin retnuke gejzo. Udedocu ke kolu pewpow visemive ena roce ro pafu moszimrab duvwavek dug huzifa wat. Siljuwela sifujo uzfusih cicog ticwa gumfa ewage uwiuruju ofaguso ki usa fu opufu. Ilto cejge hu ovgis vicow riruge ikija kuzazi ro viza ho dukpip uluzufdoh. Si ni kilinloz tiric vefuwi ezhut lop buna gadu ara pa ve. Itise mi jiluv ga ifagezu wul afugahaw ehimeker cu verdizvol vacazu av lekwu pe higwupdom inasuv. Azuva rus nora bupjag onimuzuz kibuuf mo dev rejmagum gaac lon zigdat wig kat olaijtit zuha ubi.",
+    "bio": "Zu luwvaceh orcelgi ogapi pafliis obafu adafsis ivu zil labnab buvil rot jernu ovafuf jolug jaram rijosip. Zukok coddo ap ridiweuh nun sehrewib utesuhos womu ha rijvujro ruh rovo kegel. Sahihib dilkebze beisu pifazo ulu ijonuh fojjocu soave itolum hip hugi lumu puro. Wod caslovol magid loset ed gungusi gezek zacaona pa bafwuoja rim bu je ceep kut. Vis zi lihfif curoj vejdubruz vovve kevvuhola kehebat odokebpok kajuvu penugom poz opgog osa gom miegawo. Zoiheme pil pusatif lofilzid coifi otaosozis odzuin wozrewpe nogojo esmi nevvolpu guacawaj akozu womfaldi laaspe tetikuav gebovwu ibvaj."
+  },
+  "apiKey": "54e596f16650ec3ffa5df528a6c836aa3855badb8c492864a013b5f8b6ce8be0",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
