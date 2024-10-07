@@ -1,0 +1,26 @@
+{
+  "name": "Philip Ryan",
+  "age": 45,
+  "address": {
+    "street": "Mubwa Junction",
+    "city": "Jiatagow",
+    "state": "AZ",
+    "zip": "84034"
+  },
+  "contact": {
+    "phone": "(704) 831-8557",
+    "servicePhone": "800295827"
+  },
+  "birthday": "1994-10-03T06:08:46.342Z",
+  "ip": "252.10.140.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Pebek ufejevnoc fep rogewu omri manhid amimho usjiuto tom vad ibdi petu vircig fupembu. Rurojfih asbon decjunoj pagijgod kakgeped ebuni torbizibi jehsudneh lo gusevuod akuwif zepji sirawmuv rehhumuk vin beg. Ohunu les hopumka suvetof izjo uzku viwul tajo diwez kaek tumugi piha me teh eguvo zuopfic himis.",
+    "bio": "Giame altij bunah dot kefucmi ira sezdekum lina jazefge heno ahozipud davramso fen. Ezura lafin bo utaamwij pec befaim pul bomdafug so fekzoju ugpu kiamoot omejosjo. Mageze kalalalot ocjuen ravzoug hettegu ci efici mep nop vop tasaf vu."
+  },
+  "apiKey": "eeeab1c64d18cc23f292c384333e2ed4f26afd510406907c99bdafc75a119216",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
