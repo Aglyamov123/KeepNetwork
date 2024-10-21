@@ -1,0 +1,26 @@
+{
+  "name": "Jim Hammond",
+  "age": 20,
+  "address": {
+    "street": "Fibes Turnpike",
+    "city": "Zifojuh",
+    "state": "FL",
+    "zip": "71946"
+  },
+  "contact": {
+    "phone": "(331) 793-4706",
+    "servicePhone": "800944733"
+  },
+  "birthday": "1975-09-03T05:01:18.932Z",
+  "ip": "204.37.221.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Arnabku nabza do cem diw buf foses iro zoprop fegmi pagdo cirim jizlef. Lici tembine awu pohho ocvoefi ga ri loshet bozobvuv niwuwe dijozno zarvor po magtadnuv kuvfib luh ocij bum. Hukini vit ehanofmul egoaza dorog zedter tur co geojevun do saacfe zisapsoz osuem.",
+    "bio": "Oh osbet wafu zasleb luftabub wisut ofeti sakifdo upeci ociohcoh ehagin furik. Ram tilgipu ded noromeb ida hu vu zuko ici kedew agu bojpoku. Vupvojgo un ret mileciz wabon div putzoc nanob pokro pu bamzo wictih kozpe kis ipto. Kow mebwow safan ideosirob zekleij hepev nehgapja akpa fe tu get kuew hit hace gaseef ripikse."
+  },
+  "apiKey": "24a889c99777551e5b22909bc1f74d1429e4739e4379f0d6810b859e64c61c36",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
