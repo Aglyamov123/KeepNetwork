@@ -1,0 +1,26 @@
+{
+  "name": "Francis Payne",
+  "age": 55,
+  "address": {
+    "street": "Fami Avenue",
+    "city": "Ipjisnin",
+    "state": "MS",
+    "zip": "90786"
+  },
+  "contact": {
+    "phone": "(388) 218-5949",
+    "servicePhone": "800981752"
+  },
+  "birthday": "1993-02-07T04:59:51.011Z",
+  "ip": "57.106.173.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo gedof ge akiife cifrajmeh ite cemegif ratazni pogagla vouw hukliihe tu numvoc. Idgep fon filzem widecem fivma nir itu pubdav ifuot am jifja ut mijam ek recotjo zakilop la fuvadtow. Cakbo zaw tokiwoci houmriv le wo fonajlan icovihce wol na lide dop venci lalefi. Icafu su nowkevjic zuwhil nijmaoco celagtoh tozrapped irevagit pac fa foz ijikime ubtela.",
+    "bio": "Uc fajzum eheoc evi gowkel kelvetvan kehco jijakpu tu gupgasi juw mow ri. Zakzu refsogem fedfo uk no ma mowij pirhogre zic elofo idpitnuv der ofji wu nazsa. Guujuvu tazowizo mimutenip bevo teiccof pihuve unbapozu womad zu isolu revanuki be ufo."
+  },
+  "apiKey": "b18695256dc52a7e2593ecc30c9d97cb58b2e114117a36123e6f026e97ed785f",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
