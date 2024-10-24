@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Watkins",
+  "age": 19,
+  "address": {
+    "street": "Demo Glen",
+    "city": "Piwusuob",
+    "state": "TX",
+    "zip": "26272"
+  },
+  "contact": {
+    "phone": "(317) 956-5808",
+    "servicePhone": "800814234"
+  },
+  "birthday": "1997-03-30T04:37:49.526Z",
+  "ip": "215.194.30.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Opoluc cergogna ihahavzas wo emu wa mimiv jobtu minajri wa ebwul epepig zapon gesoat te agose. Velewuna raeri pal ju miptivul sigewuuva gevoefo ritvuwa mecul zurunnac tab ulo wirgofidu le bikkigci. Fuckal meimihof hupnud evrar bauniev asozerin ape turrefa uramud hacumtot ow mivkevfa keg fidnekeno cuvol weshiwkob. Gabal rawa focveb domiha fi fa ral rulfuw rib iblaned okenu hebas zup faledfi otu bibozi jelmeh urusoji. Mijzuw lihgolabu vepku mismuz maenewi fefikbit zaatcof gicakov urumuto mefobzi pet cup wu ib goki wu vo gu. Owi pa hu ruduclik fabehku lamekju kicad wib uhuwaj ricu wanemid rot wo sa anu fasohi ne wem. Zav jiilo ip wukhillo si jog pik sees weg maslaazi kol su cen ni caad pejuz do acecelvu.",
+    "bio": "Kipeg edoib oksaza lihuri isooj duzhanu tef ko cobje an puuji hifjoca luduh lir pi nob. Uro zun fidepa vu zipeze gedgezad mivfa zuaju jukanomec dir ral utebcuz hilucika bumuz pitpi tavtez. Panus fudkufa zeblar ve sel literap pormo vu he kujeol ezo gut kelem warlesi jezkiah jostoru eheubvuv."
+  },
+  "apiKey": "ac4a7e66dec61d9825afd5794dcfc3e609b4cb534a620b6e3ba9170f2f50d9ae",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
