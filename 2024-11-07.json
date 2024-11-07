@@ -1,0 +1,26 @@
+{
+  "name": "Ola Harmon",
+  "age": 21,
+  "address": {
+    "street": "Kakive Manor",
+    "city": "Cirmades",
+    "state": "ID",
+    "zip": "31624"
+  },
+  "contact": {
+    "phone": "(701) 625-6011",
+    "servicePhone": "800856918"
+  },
+  "birthday": "1974-04-10T04:50:21.893Z",
+  "ip": "165.205.145.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Ribuz fuz sanug ju kij busun ak azupade pu govgihved gu rerkot nare niaca. Rin gahla bikfeur es terul sitmi hic nih elile cawzour fiesa lu. Odugoklon hibgi kedikvus adereg zamgo sat odoug ca hokded egocuhah letsocuw bava av vecsekmok hu goggije.",
+    "bio": "Luz ridopne izuhegjis cat ol igzab nusowof murpebfu pigerwih bu igbem danana zaih leurule hed. Mumli ohi miev mergalmun etfiwuza pe hines vougizu votura iw ofdonbo se. Zat gebep hi bif cozome muvo ginuful kaorriw pefup hoevi tealive uh lev ceaggo pu mer. Itusudre sobi mop ed apoduc susi pacvimu meleew lehkeh uwmo serave uru gocno mogjeewa atbapi mubfap. Bag wewatav ji himo lupupupu orowejrel nosa busbupave bucjepo nerla jiris mawop."
+  },
+  "apiKey": "595a8e006ebb749c65311eb54b76209c73348d6836a79c6a70387b6297a4cfb3",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
