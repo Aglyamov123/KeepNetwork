@@ -1,0 +1,26 @@
+{
+  "name": "Sam West",
+  "age": 30,
+  "address": {
+    "street": "Temop Parkway",
+    "city": "Tahannif",
+    "state": "NE",
+    "zip": "76020"
+  },
+  "contact": {
+    "phone": "(609) 227-6400",
+    "servicePhone": "800651239"
+  },
+  "birthday": "1976-10-13T01:07:55.644Z",
+  "ip": "56.224.236.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Cam fa suz ec zilnes muek namcahku fef ohov hes fecha jugcel. Farozuj jeci ka im sole evohik zuggif ges ofiso gevo cuoko apoto. Liefha fuh poek waczi va mosejih usa jujaluh uduwace musjor aseguda ahga gi. Ge epujiuso nudumkog us cu gelharvos ev jeh rogdap poh higi hokoru. Kiheckeb piv rupcod parat logzir gapi me ci levaf neuje ituomzu zurho ifobim kadifgu.",
+    "bio": "We habwi nub hesacpe gihmipzo ofopodi tug veihvus puwa tici atdaj vifna. Hapempom ari babir ni adpinu aca epezug daj hamali orukol ib suwkickog jirri cevemot bubun uz. Tekajno tibpo zuwusuw ze urlalcel kozhif lef fezde jubub ciwgehkad uh ata nokgoma renad. Ru idi dufsev ja ugome cueg mikeza tivweato ulupis dawmu peaw dovaceh ojnup."
+  },
+  "apiKey": "26f558f65cb102334e0b081ef3579a6da4330fd40f5ef2607159027f7fa0bbee",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
