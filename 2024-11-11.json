@@ -1,0 +1,26 @@
+{
+  "name": "Louis Maldonado",
+  "age": 52,
+  "address": {
+    "street": "Guik Pike",
+    "city": "Semuehe",
+    "state": "MT",
+    "zip": "80055"
+  },
+  "contact": {
+    "phone": "(468) 885-4277",
+    "servicePhone": "800976995"
+  },
+  "birthday": "1976-08-01T01:34:28.479Z",
+  "ip": "199.70.122.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Nafded bafgo jo wi lasfeh simnawud ka ubcozdub az du icu kelatdoc. Cefifa uzdugiv ruew enu bej es ekkewvah pibvono zocbed tawvek ak wow siwtoh gan vajjej aceza nohojnum. Kalwuz tawodba la puwutej isi te vir zi nujletit eloge lapekasit sockilis. Erila zicpouc sok takrove cofmuju icpipe hatmum eccefu wof hu raj su uja beci.",
+    "bio": "Izobu ajuonoja zut caceti gubowba suv gag el fod jozase ojulofno socinbiz nodofev kur ca nodgu volondus. Vowa vi ifusak guek gen ef hu ijku bobuka ki emokepka foakusez kedurne dojannep utezejum osusabo. Tivbiseh negvubeg til aca badimah ferlikdu zosgugi tucu lintope febupuc noko nu ativu facweg."
+  },
+  "apiKey": "206428d386ca6a26cfc707d79fdbeede702465cb1f5c0d5074742b6627be6ecd",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
