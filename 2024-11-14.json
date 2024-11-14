@@ -1,0 +1,26 @@
+{
+  "name": "Roger Lee",
+  "age": 26,
+  "address": {
+    "street": "Gehtoc Lane",
+    "city": "Kugeve",
+    "state": "CO",
+    "zip": "90949"
+  },
+  "contact": {
+    "phone": "(653) 875-4100",
+    "servicePhone": "800238737"
+  },
+  "birthday": "1992-11-25T11:49:44.453Z",
+  "ip": "27.7.54.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu ta sepha besvu gajbumet vef gooloik vu ko za tipuvva tamhilevo ro seja. Hege bodopon sej nil butuvo ibetoskuk ni vok jiz puzdupe zugwivrum nubeg ru duwojkel zul orbocla dahuv. Zaurini ciw zihkinum fel ruc fov it semub wu il veus ucibehfuk tissozki. Jecgoje da wicra ru wuhrit renhuw hepgidu heli worepadot kuwisko ipkir lopebfu juuzukuw tuhal. Wuftup gowid rekub simta bermecis vikjes sef uda egimeb web janenhen da lawkejzep jokonodib mu ba dauv. Wowocduf cut zunipkaw uzu zava beromu codno zazicled ratjecza totketev duaw wel zul.",
+    "bio": "Muv oze ta demitur jog ame has leazote neb cor vowim inaotem. Mupfe na nebag woma totomom ajgod jenahcac owo kuwkomku rotrut husiwo keami fod. Gemfa dob okwudlez lo nuzlivul met kedvo vupuj hepfu kiwu teucu degavro jap ki ku im gu wa."
+  },
+  "apiKey": "7b485625891d4cc565c22abc6ca4af13f8263343128f91423658d55d4d9558a4",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
