@@ -1,0 +1,26 @@
+{
+  "name": "Michael Guzman",
+  "age": 18,
+  "address": {
+    "street": "Egawag Key",
+    "city": "Izsenusu",
+    "state": "NC",
+    "zip": "29261"
+  },
+  "contact": {
+    "phone": "(603) 325-4988",
+    "servicePhone": "800524211"
+  },
+  "birthday": "1970-07-18T08:51:22.807Z",
+  "ip": "147.66.46.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi saktuffu macemu fiwomwi jos uz genur kahulwa hucwurnov eg cun uwvihso. Bero si wepu onluza hijucka ho passade wajibeve jewumece no lij bohkion besef. Hujdu cut vol fumajuro desaib zihitifud igoonu cogpo looru hahowki ose podjewojo roci jik me kad ki se.",
+    "bio": "Lopfo icgek ca saal ulaagezi fi mempajbom ijkej azibezi tawsat lime jer tobob apoto dudovsug wuhbivij. Dasir ter dokkajaw en ji tezig jo loh ifuhovet me al apana cal mitrevwo. Ve owi dud wonnadaz bes oguzecaz sutehefo hozpi ra soweho keutaju de pu. Mad comtoz ewbi ew lorne doho fah ate fagseduw holpak ala jugfaf kesir hestuonu nodiba mah. Giwano nof eh vulato lo wise kipa orhusgit tafape tugtoglo ojo ur jaskuzeh fuwehro. Cuwheveku nalotuk sikadu vuca hoikru bembe olu ozuvi uneov upa wuzrola ga. Iz juf verriputu tuvfufro zuckugi rub oj jucetru nega ba pe ka zoud baejo dihfehi daffef."
+  },
+  "apiKey": "6669acdcf551af5d5328e5f1af883892bfd7466966277c4883f19af3dec5ea4a",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
