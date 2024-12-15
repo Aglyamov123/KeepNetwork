@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Walker",
+  "age": 26,
+  "address": {
+    "street": "Mafda Lane",
+    "city": "Fizufa",
+    "state": "MD",
+    "zip": "48592"
+  },
+  "contact": {
+    "phone": "(750) 641-2713",
+    "servicePhone": "800723172"
+  },
+  "birthday": "1976-08-13T02:54:26.488Z",
+  "ip": "34.230.21.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Weusju todbalvu maaj bekarofu jak weofi diwerzag laho vemece pu ijeifdej gati ha dobweel puwiptaw munmido. Ta mugipo dajuro wuphotvic ewiwida don ukhom fuowda jakjo tofhe pimoel be mesa hi kowuhwib neh ofecizir. Hoj vokowa lo kulcur tiv jekul ahde jumogiten osa fitad imik biloje umu.",
+    "bio": "Epovipe viz gu ebsu odepe iwaki gu ozucaj so losuzafum mucimigej ceztistok bo mosisi. Ceg iciuzeuce pukginif ajjuwfap ot cu ibti fosarur hautadoz vem ehi bekheeze dafug je ti wewgiceh. Fukah tiocoza tohecahi wadwe vo heiwu gupkafka kedakdo gapul efecuwho udelamol faf wud sozosbu. Kakihga van ileja ekuim ru ona lilnen zirawro mezwena tew toddi kebjuw derve akotin subeedi go."
+  },
+  "apiKey": "309d57f59487827bc099fc57961c996e459610a45989822b5f5dc8164d08b7c4",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
