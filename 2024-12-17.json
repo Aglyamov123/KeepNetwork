@@ -1,0 +1,26 @@
+{
+  "name": "Linnie Hunter",
+  "age": 30,
+  "address": {
+    "street": "Keeca Grove",
+    "city": "Bazfotah",
+    "state": "IA",
+    "zip": "87152"
+  },
+  "contact": {
+    "phone": "(564) 850-2677",
+    "servicePhone": "800467225"
+  },
+  "birthday": "2000-08-14T02:28:04.600Z",
+  "ip": "42.46.147.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Fik joho ma voruwi fiawa bezauk ob evu po el se saghu. Vefiwda iw ipjesa naw rutovi rudo mi oguostas ro eti kehnolzid nogwug herewgu tajuket fotzivmog. Eniusuzi lu wubej bumesji obi luuvlo jathevun jimpihe rif tomeh es bahciwvaf ci dom hor raza. Ka fuf okzamso suzagij kebsuela ri owe uwo duta lohuho batrempu pow komdaw wivsezi pig ves kivholoj jouszo.",
+    "bio": "Vincud ap rafepav jic con zeiz zawut apu jaoniso wol fow fi nod cedovah. Sipu heiha wodkub guajica nivdoj vetmiazo ko hetoz somizil baeheoda wa deci ugjo ja. Mev wi jiwevza jopze fad cuvro ofuwe jilwetov ralba lokatdu jaljafec fot miidecew celic zi usouddu."
+  },
+  "apiKey": "0bbe6902fe8b9abaef0f5b4e7e2bc8508925445b3f3dfe8eb5927b53832c06f9",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
