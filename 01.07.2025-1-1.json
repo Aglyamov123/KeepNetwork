@@ -1,0 +1,25 @@
+{
+    "name": "Carol Blair",
+    "age": 105,
+    "address": {
+        "street": "Gregory Station",
+        "city": "Alexanderfort",
+        "state": "Hawaii",
+        "zip": "69831"
+    },
+    "contact": {
+        "phone": "001-632-734-9345x7649",
+        "servicePhone": "800881597"
+    },
+    "birthday": "1920-27-03",
+    "ip": "5.110.125.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Source sport back house none. Blood not teach moment alone stay represent which. Sign life stop them mind game. As defense too.",
+        "bio": "Current idea single thought choice sort give. Area certain future evidence now bank.\nMore establish similar evening view than service camera. Tough inside quite memory."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
