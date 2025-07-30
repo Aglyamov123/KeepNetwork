@@ -1,0 +1,25 @@
+{
+    "name": "Paul Bentley",
+    "age": 102,
+    "address": {
+        "street": "Cox Pines",
+        "city": "Christopherland",
+        "state": "Wyoming",
+        "zip": "05043"
+    },
+    "contact": {
+        "phone": "571.542.5818x77173",
+        "servicePhone": "800579747"
+    },
+    "birthday": "1923-05-12",
+    "ip": "205.105.33.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Green keep morning outside. Nation enough industry authority. Southern occur for couple story.\nBlood budget artist. Could find crime energy growth. Necessary family alone work spring.",
+        "bio": "Board picture force vote college. Doctor always few make my form serious stop. Central worry local create old paper rich."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
