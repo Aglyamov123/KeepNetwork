@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Sampson",
+    "age": 12,
+    "address": {
+        "street": "Hart Extension",
+        "city": "Lisaville",
+        "state": "New Hampshire",
+        "zip": "27616"
+    },
+    "contact": {
+        "phone": "432-803-5463x4019",
+        "servicePhone": "800288748"
+    },
+    "birthday": "2013-25-04",
+    "ip": "182.213.17.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Room explain when all nice begin. Particular assume threat protect spring. Among station loss even attention lead space kind.",
+        "bio": "Grow many billion wish. House ok bank leave black.\nCarry every source school he try case argue. Stay himself bar.\nRun month thought reality region. Forget reduce rather high give leave."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
