@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Vasquez",
+    "age": 73,
+    "address": {
+        "street": "Davis Avenue",
+        "city": "East Devinborough",
+        "state": "Colorado",
+        "zip": "78085"
+    },
+    "contact": {
+        "phone": "649-263-7357x74594",
+        "servicePhone": "800205280"
+    },
+    "birthday": "1952-17-06",
+    "ip": "171.34.30.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup cold check consumer meeting film. Market reduce second set talk. Character tell leader growth compare.\nChoose house customer guess. Site number less town fight beat employee.",
+        "bio": "Hard base couple answer lawyer. Heart move professor treat father order."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
