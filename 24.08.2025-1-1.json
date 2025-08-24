@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Bailey",
+    "age": 107,
+    "address": {
+        "street": "Vicki Fort",
+        "city": "New Cory",
+        "state": "Montana",
+        "zip": "90937"
+    },
+    "contact": {
+        "phone": "6703165900",
+        "servicePhone": "800832796"
+    },
+    "birthday": "1918-25-07",
+    "ip": "173.28.142.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Think production word. Popular compare remember ten industry campaign lose.\nCrime wide pressure. Feel cause two perhaps specific of.",
+        "bio": "Design bed knowledge stop since. According million apply minute child side report rock. On something measure generation significant expert safe attack."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
