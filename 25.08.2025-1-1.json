@@ -1,0 +1,25 @@
+{
+    "name": "Robert Allen",
+    "age": 17,
+    "address": {
+        "street": "Joanna Manors",
+        "city": "East Jamesmouth",
+        "state": "Alabama",
+        "zip": "37348"
+    },
+    "contact": {
+        "phone": "968.801.9403x252",
+        "servicePhone": "800391895"
+    },
+    "birthday": "2008-29-08",
+    "ip": "85.236.169.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Use size generation provide indeed. Four actually hand four product couple write. Condition whose similar now big series could.\nAgency day leader modern actually. Job address method.",
+        "bio": "Food Congress whom rest. Difference her accept baby remember speech from.\nOften why focus white expert cut. Letter four be growth this politics above message."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
