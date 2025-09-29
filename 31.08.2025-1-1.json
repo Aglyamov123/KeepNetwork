@@ -1,0 +1,25 @@
+{
+    "name": "John Mcdonald",
+    "age": 103,
+    "address": {
+        "street": "Reyes Harbors",
+        "city": "North Lori",
+        "state": "Wisconsin",
+        "zip": "69873"
+    },
+    "contact": {
+        "phone": "676-266-9372x391",
+        "servicePhone": "800837110"
+    },
+    "birthday": "1922-30-09",
+    "ip": "31.123.175.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Time continue hit really soldier.\nCity music business painting natural material subject. Child write federal head before learn range.",
+        "bio": "System teach series some decade. Item country hard above. Herself station tax professional thank exist quickly."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Wade",
+    "age": 108,
+    "address": {
+        "street": "Julie Common",
+        "city": "Cherryfurt",
+        "state": "New Hampshire",
+        "zip": "99050"
+    },
+    "contact": {
+        "phone": "928-926-3251",
+        "servicePhone": "800729050"
+    },
+    "birthday": "1917-11-07",
+    "ip": "112.65.182.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Social live so grow worry pattern not. Operation property fine. Enjoy collection wish money old interview phone. Event woman him less environment example drive.",
+        "bio": "Partner individual whole push community brother likely. Kid long fight likely.\nGreat speak own condition yet however less affect. Candidate hard account garden win. Discover thought animal."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
