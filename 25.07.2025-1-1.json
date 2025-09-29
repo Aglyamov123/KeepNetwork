@@ -1,0 +1,25 @@
+{
+    "name": "Karen Miller",
+    "age": 15,
+    "address": {
+        "street": "Paul Trace",
+        "city": "New Kevinton",
+        "state": "Tennessee",
+        "zip": "04794"
+    },
+    "contact": {
+        "phone": "+1-951-696-4418",
+        "servicePhone": "800152079"
+    },
+    "birthday": "2010-17-05",
+    "ip": "72.31.150.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Office why body improve defense white picture. Western tell agreement should any. Fast former tend site so.",
+        "bio": "Investment continue teach. Member far challenge father edge. Half end dinner challenge dog add result."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
