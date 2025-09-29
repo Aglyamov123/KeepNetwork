@@ -1,0 +1,25 @@
+{
+    "name": "Adam Roberts MD",
+    "age": 11,
+    "address": {
+        "street": "Rodney Hollow",
+        "city": "South Johnton",
+        "state": "Louisiana",
+        "zip": "45001"
+    },
+    "contact": {
+        "phone": "(338)624-8292",
+        "servicePhone": "800526047"
+    },
+    "birthday": "2014-30-07",
+    "ip": "136.108.170.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Especially room politics for. Per while scientist.\nBar apply seat art. Moment around attorney minute free.",
+        "bio": "Story probably few method speak ten box. Individual break interesting.\nFund check security person risk. Store morning you process it vote glass. Represent over budget start else."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

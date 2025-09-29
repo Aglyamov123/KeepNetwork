@@ -1,0 +1,25 @@
+{
+    "name": "David Lam",
+    "age": 48,
+    "address": {
+        "street": "Torres Rest",
+        "city": "West Christineport",
+        "state": "Texas",
+        "zip": "78036"
+    },
+    "contact": {
+        "phone": "793.611.1925x294",
+        "servicePhone": "800533473"
+    },
+    "birthday": "1977-16-06",
+    "ip": "97.134.147.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Level allow pass key special. Take drive sense foot. Including specific wrong father watch front.\nWould if nation. Thing fight environment their according focus. Speak senior you.",
+        "bio": "Political federal hair. Result front energy write.\nOfficer begin trade law. Outside marriage reflect key model enter. Already table together nor most. House position own else cup message bed."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

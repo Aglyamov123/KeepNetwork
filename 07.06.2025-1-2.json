@@ -1,0 +1,25 @@
+{
+    "name": "Sheryl Morrow",
+    "age": 47,
+    "address": {
+        "street": "Michael Junctions",
+        "city": "South Jenniferberg",
+        "state": "Arizona",
+        "zip": "30481"
+    },
+    "contact": {
+        "phone": "+1-244-787-6952x93573",
+        "servicePhone": "800653293"
+    },
+    "birthday": "1978-17-02",
+    "ip": "196.209.124.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality knowledge executive central conference. Art window discuss weight move.\nWhen former so modern husband.",
+        "bio": "Small need focus executive tree it dream. Remain front interesting result then very scientist."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
