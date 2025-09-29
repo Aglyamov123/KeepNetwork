@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Simon",
+    "age": 54,
+    "address": {
+        "street": "Charles Spurs",
+        "city": "Wendymouth",
+        "state": "Oregon",
+        "zip": "97128"
+    },
+    "contact": {
+        "phone": "859.825.5867x4832",
+        "servicePhone": "800575817"
+    },
+    "birthday": "1971-02-08",
+    "ip": "40.167.164.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy kitchen office late important final. Land for compare administration performance.\nPresident finish may food network.",
+        "bio": "Guess believe reality agree should. Every skill bank husband much history. Collection perform left what support that. Receive become behavior eat."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
