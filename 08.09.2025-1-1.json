@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Berger",
+    "age": 1,
+    "address": {
+        "street": "Williams Fort",
+        "city": "East Ryan",
+        "state": "New Jersey",
+        "zip": "39494"
+    },
+    "contact": {
+        "phone": "257-436-9568",
+        "servicePhone": "800890599"
+    },
+    "birthday": "2024-28-10",
+    "ip": "1.247.143.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain scientist tree treat buy.\nTelevision actually customer road all.\nWhat bed mean pretty world order thousand. Case ever kitchen camera beautiful.",
+        "bio": "Everything art leave happen. Rather thing mind someone exactly ready.\nFirm hear cultural act. Rest tough white turn."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
