@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Stone",
+    "age": 17,
+    "address": {
+        "street": "Waters Ville",
+        "city": "Jensenstad",
+        "state": "Vermont",
+        "zip": "87878"
+    },
+    "contact": {
+        "phone": "793.249.6722x69325",
+        "servicePhone": "800115953"
+    },
+    "birthday": "2008-10-09",
+    "ip": "1.42.35.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview throughout radio upon nice action. View society film marriage.\nCivil such weight everything report. My Democrat model school anything.",
+        "bio": "Road upon majority you money worker. Six look since everything order.\nApply need modern throughout. Require out identify. Specific special instead nothing turn bill east."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
