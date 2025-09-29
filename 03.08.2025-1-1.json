@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Orr",
+    "age": 56,
+    "address": {
+        "street": "Frank Extensions",
+        "city": "East Moniqueburgh",
+        "state": "Alabama",
+        "zip": "91808"
+    },
+    "contact": {
+        "phone": "541.738.8480",
+        "servicePhone": "800847924"
+    },
+    "birthday": "1969-17-06",
+    "ip": "51.21.73.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate question marriage effect. Full side offer which. Character meeting argue agency material.\nQuestion lawyer apply American believe. Simple result law increase debate everyone. Set artist speech.",
+        "bio": "Seek boy country not half determine.\nColor last commercial number recognize. Why black decide whom series east cultural rate."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
