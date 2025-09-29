@@ -1,0 +1,25 @@
+{
+    "name": "Philip Wheeler",
+    "age": 112,
+    "address": {
+        "street": "Day Cove",
+        "city": "New Brandiborough",
+        "state": "New Mexico",
+        "zip": "91928"
+    },
+    "contact": {
+        "phone": "914.301.6753",
+        "servicePhone": "800508761"
+    },
+    "birthday": "1913-20-01",
+    "ip": "43.25.214.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Book exactly movie doctor among cell budget. Human foreign baby suggest measure factor. Skin chance old down front share fund bag.\nBuilding continue population whom.",
+        "bio": "Man kid for be able but improve.\nBase field box money yet board yourself. Police itself third if once."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

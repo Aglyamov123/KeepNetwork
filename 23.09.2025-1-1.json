@@ -1,0 +1,25 @@
+{
+    "name": "Linda Baird",
+    "age": 40,
+    "address": {
+        "street": "Crawford Lakes",
+        "city": "Richardmouth",
+        "state": "South Dakota",
+        "zip": "55193"
+    },
+    "contact": {
+        "phone": "947.703.6179x5657",
+        "servicePhone": "800084147"
+    },
+    "birthday": "1985-01-02",
+    "ip": "162.101.156.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Right truth prepare else cultural activity happy. Range win control recently large receive. Prove share sit subject evening.\nBy seat service include.",
+        "bio": "Religious time crime tend. Thing summer structure should short two.\nThough trip majority smile place take audience. Toward food position option skin lot per. Most line could step cup mission."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
