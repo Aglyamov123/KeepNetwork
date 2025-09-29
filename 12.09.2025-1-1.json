@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Rivera",
+    "age": 11,
+    "address": {
+        "street": "Jennifer Via",
+        "city": "Stephanieburgh",
+        "state": "Alaska",
+        "zip": "86357"
+    },
+    "contact": {
+        "phone": "(715)826-3328x1490",
+        "servicePhone": "800643209"
+    },
+    "birthday": "2014-11-08",
+    "ip": "36.94.18.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist actually consider author charge. Card current school company although within. Wish my decide culture.",
+        "bio": "Relationship serve activity too partner authority. Must book push than cut almost. Keep move method lawyer bar into."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
